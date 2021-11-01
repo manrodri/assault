@@ -1,0 +1,1 @@
+{"Successful_requests": 500, "Slowest": 1.7849552000000002, "Fastest": 0.24029700200000015, "total_time": 9.70965477, "Request_per_second": 51.5, "Request_per_minute: ": 8.33}
